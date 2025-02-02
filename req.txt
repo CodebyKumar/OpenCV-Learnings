@@ -1,0 +1,8 @@
+numpy
+opencv-python
+matplotlib
+zipfile36
+urllib3
+ipython
+ipykernel
+opencv-contrib-python
