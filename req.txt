@@ -6,3 +6,4 @@ urllib3
 ipython
 ipykernel
 opencv-contrib-python
+pafy
